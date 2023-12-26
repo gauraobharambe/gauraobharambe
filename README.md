@@ -10,6 +10,9 @@
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/7c702a90-8f3f-432f-9ca4-279a39f9cb56" alt="React" title="React" height="40px" width="40px" />&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/2f7d5eaa-71cc-4ecd-8b40-517c34a1ef04" alt="Svelte" title="Svelte" height="40px" width="40px" />&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/ca6b9e80-732e-4a90-b5d5-2604c6711020" alt="Angular" title="Angular" height="40px" width="40px" />&nbsp;&nbsp;
+<img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/445fa1fa-9ce5-49d0-ab80-36298d6948b5" alt="Vite" title="Vite" height="40px" width="40px" />&nbsp;&nbsp;
+<img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/6b790255-0d8f-4823-b065-988e3ce3c00d" alt="Gulp" title="Gulp" height="40px" width="40px" />&nbsp;&nbsp;
+<img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/df911ee5-b15f-48da-9ef7-cea8bf98ddb1" alt="Nx Build System" title="Nx Build System" height="40px" width="40px" />&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/1a01c612-4ea5-41b1-8a3a-12c0b35b06c2" alt="MySQL" title="MySQL" height="40px" width="40px" />&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/62642d01-c0e3-488c-9e90-30ef490acc17" alt="PostgreSQL" title="PostgreSQL" height="40px" width="40px" />&nbsp;&nbsp;
 
