@@ -26,6 +26,15 @@
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/995d3f2b-a4b0-43d5-9ad6-aa6964623e1f" alt="Docker" title="Docker" height="40px" width="40px" />&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/7e438a6e-308a-4937-b356-af0cef5459e5" alt="Postman" title="Postman" height="40px" width="40px" />&nbsp;&nbsp;
 
+### ⚙ Tools I use:
+&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/62b42f01-58e0-492b-8700-9395aabdc669" alt="GitHub" title="GitHub" height="40px" width="40px" />&nbsp;&nbsp;
+<img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/dee94a1e-2203-488d-9ca6-4009b444c7f2" alt="SourceTree" title="SourceTree" height="40px" width="40px" />&nbsp;&nbsp;
+<img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/76baefc6-dfc9-43a7-9b40-40d1d7109231" alt="Jira" title="Jira" height="40px" width="40px" />&nbsp;&nbsp;
+<img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/fc582933-9190-41c7-abf2-1c3aaa53bff6" alt="Confluence" title="Confluence" height="40px" width="40px" />&nbsp;&nbsp;
+<img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/1b44e09d-8825-40b3-93d9-0473d062a722" alt="Canva" title="Canva" height="40px" width="40px" />&nbsp;&nbsp;
+
+
 ### 📬 You can find me here:
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gauraobharambe" title="LinkedIn - Gaurao Bharambe" ><img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/853cd3bc-dc01-45cf-bbb6-47a1b80634c6" alt="LinkedIn" style="width:40px;height:40px" /></a> &nbsp;
