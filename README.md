@@ -1,6 +1,6 @@
 ## Hi there 👋, I’m  Gaurao Bharambe 👩🏻‍💻
 &nbsp;&nbsp;&nbsp; 👩🏻‍💻 I am a Full-Stack Software Engineer, From India 🇮🇳. <br/>
-&nbsp;&nbsp;&nbsp; 🏢 I am working as Lead Software Engineer at [CNTechies](https://www.cntechies.com/).
+&nbsp;&nbsp;&nbsp; 🏢 I am working as a Lead Software Engineer at [CNTechies](https://www.cntechies.com/).
 
 ### ⚙ Tech stack I am working with:
 &nbsp;&nbsp;&nbsp;
