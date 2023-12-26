@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/d2839ce8-c6f7-4c60-a31f-6cbd11075a4a" alt="JavaScript" title="JavaScript" height="35px" width="35px" />&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/692dcebf-584a-44bd-b0be-95df2530fc01" alt="TypeScript" title="TypeScript" height="35px" width="35px" />&nbsp;&nbsp;
-<img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/feb44898-902b-4e0d-9807-51fad8a6b878" alt="NodeJS" title="NodeJS" height="35px" width="35px" />&nbsp;&nbsp;
+<img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/29243686-6fca-428b-b4aa-660723318946" alt="NodeJS" title="NodeJS" height="35px" width="35px" />&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/7c702a90-8f3f-432f-9ca4-279a39f9cb56" alt="React" title="React" height="35px" width="35px" />&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/2f7d5eaa-71cc-4ecd-8b40-517c34a1ef04" alt="Svelte" title="Svelte" height="35px" width="35px" />&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/ca6b9e80-732e-4a90-b5d5-2604c6711020" alt="Angular" title="Angular" height="35px" width="35px" />&nbsp;&nbsp;
