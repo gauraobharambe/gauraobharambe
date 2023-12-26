@@ -3,6 +3,7 @@
 ##### 🏢 I am working as Lead Software Engineer at &nbsp;<img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/4b8f04a4-ae76-43a0-967c-f6425a8f803a" alt="CNTechies" height="12px" width="12px" />[CNTechies](https://www.cntechies.com/).
 
 ### ⚙ Tech stack I am working with:
+&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/d2839ce8-c6f7-4c60-a31f-6cbd11075a4a" alt="JavaScript" title="JavaScript" height="40px" width="40px" />&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/692dcebf-584a-44bd-b0be-95df2530fc01" alt="TypeScript" title="TypeScript" height="40px" width="40px" />&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/feb44898-902b-4e0d-9807-51fad8a6b878" alt="NodeJS" title="NodeJS" height="40px" width="40px" />&nbsp;&nbsp;
@@ -12,6 +13,7 @@
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/62642d01-c0e3-488c-9e90-30ef490acc17" alt="PostgreSQL" title="PostgreSQL" height="40px" width="40px" />&nbsp;&nbsp;
 
 ### ⚙ I also worked with:
+&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/11cdf1cd-7503-45de-ba9c-f317a273c429" alt="HTML" title="HTML" height="40px" width="40px" />&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/a1d63e21-c1fc-47c2-822d-14413b2745de" alt="CSS" title="CSS" height="40px" width="40px" />&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/dd696036-c159-4fb1-8572-cbc42f9a8391" alt="C#" title="C#" height="40px" width="40px" />&nbsp;&nbsp;
@@ -23,7 +25,11 @@
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/995d3f2b-a4b0-43d5-9ad6-aa6964623e1f" alt="Docker" title="Docker" height="40px" width="40px" />&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/7e438a6e-308a-4937-b356-af0cef5459e5" alt="Postman" title="Postman" height="40px" width="40px" />&nbsp;&nbsp;
 
-
+### 📬 You can find me here:
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gauraobharambe" title="LinkedIn - Gaurao Bharambe" ><img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/853cd3bc-dc01-45cf-bbb6-47a1b80634c6" alt="LinkedIn" style="width:40px;height:40px" /></a> &nbsp;
+<a href="https://sites.google.com/view/gauraobharambe" title="Website - Gaurao Bharambe - Full-Stack Engineer" ><img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/6a1058bf-2b96-4062-b7c2-e1eb62235c47" alt="Google Site - Gaurao Bharambe" style="width:40px;height:40px" /></a> &nbsp;
+<a href="mailto:gaurao7793@gmail.com" title="Gmail" ><img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/9ac7db4e-1325-4a94-ab65-5301b4873157" alt="Gmail" style="width:40px;height:40px" /></a>
 
 
 <!--
