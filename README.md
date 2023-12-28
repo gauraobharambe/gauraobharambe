@@ -27,12 +27,13 @@
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/fec3a8f7-d5b2-44bb-bf3e-3cf35e2f059c" alt="Microsoft SQL Server" title="Microsoft SQL Server" height="35px" width="35px" />&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/cc43c90c-49dd-4002-ae5a-dc2baac8591e" alt="MongoDB" title="MongoDB" height="35px" width="35px" />&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/995d3f2b-a4b0-43d5-9ad6-aa6964623e1f" alt="Docker" title="Docker" height="35px" width="35px" />&nbsp;&nbsp;
-<img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/7e438a6e-308a-4937-b356-af0cef5459e5" alt="Postman" title="Postman" height="35px" width="35px" />&nbsp;&nbsp;
 
 ### ⚙ Tools I use:
 &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/62b42f01-58e0-492b-8700-9395aabdc669" alt="GitHub" title="GitHub" height="35px" width="35px" />&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/dee94a1e-2203-488d-9ca6-4009b444c7f2" alt="SourceTree" title="SourceTree" height="35px" width="35px" />&nbsp;&nbsp;
+<img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/7e438a6e-308a-4937-b356-af0cef5459e5" alt="Postman" title="Postman" height="35px" width="35px" />&nbsp;&nbsp;
+<img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/ac1ffeb3-9c7c-4b18-b182-0a28e912a306" alt="Trello" title="Trello" height="35px" width="35px" />&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/76baefc6-dfc9-43a7-9b40-40d1d7109231" alt="Jira" title="Jira" height="35px" width="35px" />&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/fc582933-9190-41c7-abf2-1c3aaa53bff6" alt="Confluence" title="Confluence" height="35px" width="35px" />&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/1b44e09d-8825-40b3-93d9-0473d062a722" alt="Canva" title="Canva" height="35px" width="35px" />&nbsp;&nbsp;
