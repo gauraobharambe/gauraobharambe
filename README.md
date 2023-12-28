@@ -31,6 +31,7 @@
 ### ⚙ Tools I use:
 &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/62b42f01-58e0-492b-8700-9395aabdc669" alt="GitHub" title="GitHub" height="35px" width="35px" />&nbsp;&nbsp;
+<img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/670d3ac3-6429-493b-a17a-370a82eab07e" alt="Bitbucket" title="Bitbucket" height="35px" width="35px" />&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/dee94a1e-2203-488d-9ca6-4009b444c7f2" alt="SourceTree" title="SourceTree" height="35px" width="35px" />&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/7e438a6e-308a-4937-b356-af0cef5459e5" alt="Postman" title="Postman" height="35px" width="35px" />&nbsp;&nbsp;
 <img src="https://github.com/gauraobharambe/gauraobharambe/assets/69198127/ac1ffeb3-9c7c-4b18-b182-0a28e912a306" alt="Trello" title="Trello" height="35px" width="35px" />&nbsp;&nbsp;
