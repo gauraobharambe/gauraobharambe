@@ -102,7 +102,7 @@ I'm a **Lead Software Engineer at [CNTechies](https://www.cntechies.com/)**, bui
   <a href="mailto:gaurao7793@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://sites.google.com/view/gauraobharambe" target="_blank">
+  <a href="https://gauraobharambe.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </div>
