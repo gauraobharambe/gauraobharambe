@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Gaurao%20Bharambe&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20Full-Stack%20Lead%20Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Lead+Software+Engineer+%40+CNTechies;Building+with+Multi-Agent+AI+Workflows;RAG+Pipelines+%7C+LLM+Orchestration+%7C+Full-Stack;Turning+Ideas+Into+Production+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=655&lines=Lead+Software+Engineer+%40+CNTechies;Building+with+Multi-Agent+AI+Workflows;RAG+Pipelines+%7C+LLM+Orchestration+%7C+Full-Stack;Turning+Ideas+Into+Production+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
